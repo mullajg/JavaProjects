@@ -1,2 +1,2 @@
-# RecursiveFractal
-The following java file uses recursion to create the famous Sieripinski's Triangle.
+# Student Info
+The following java file asks the user for their student information and writes that information to a text file.
